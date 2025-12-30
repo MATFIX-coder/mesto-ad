@@ -190,7 +190,7 @@ const handleAvatarFromSubmit = (evt) => {
       resetLoading(submitButton, initialText);
     });
 };
-
+///
 const handleCardFormSubmit = (evt) => {
   evt.preventDefault();
 
