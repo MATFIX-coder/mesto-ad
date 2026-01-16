@@ -5,3 +5,5 @@
 Live-server является расширением VSCode
 
 npm run deploy
+**Ссылка на GitHub Pages**
+https://matfix-coder.github.io/mesto-production/
